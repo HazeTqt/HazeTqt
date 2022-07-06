@@ -2,9 +2,9 @@
 <h3 align="center">Passionné d'informatique | Débutant</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=debutant+developper;videogame+addict;python+for+life">
-- 🔭 Je travaille actuellement sur l'**ATX Project**
+- 🔭 Je travaille actuellement sur l'ATX Project
 
-- 🌱 J'apprends actuellement le **Python & Node JS**
+- 🌱 J'apprends actuellement le Python & Node JS
 
 <h3 align="left">Rejoignez moi !</h3>
 <p align="left">
