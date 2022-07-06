@@ -8,7 +8,7 @@
 
 <h3 align="left">Rejoignez moi !</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucgafgu0kiucixgla7nxz7yq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgafgu0kiucixgla7nxz7yq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCgAfgu0KIucIxgla7nXZ7YQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucgafgu0kiucixgla7nxz7yq" height="30" width="40" /></a>
 <a href="https://discord.gg/𝐻𝒶𝓏𝑒#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝐻𝒶𝓏𝑒#0001" height="30" width="40" /></a>
 </p>
 
